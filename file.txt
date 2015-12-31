@@ -1,3 +1,0 @@
-This is my first edit to a git sc file.
-
-this is my second commit to a git sc file.
